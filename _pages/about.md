@@ -10,7 +10,7 @@ I am a second-year Master’s student in **Sociology and Social Research** at th
 My research interests revolve around **Social Inequalities**, **Family Dynamics**, and **Intergenerational Mobility**. I seek to understand how family background, social stratification, early-life conditions, and institutional factors shape life trajectories in education, occupation and family behaviours.
 
 ---
-My academic path is fundamentally shaped by the eagerness to understand institutional and social inequalities and their impact in individuals' and families' life. This commitment goes beyond mere academic curiosity. As a first-generation student who understands that opportunities and life paths should not be left to chance, my research seeks to bring empirical evidence on inequalities and life chances to the civil and social debate, ideally to the political one.
+My academic path is fundamentally shaped by the eagerness to understand institutional and social inequalities and their impact in individuals' and families' life. This commitment goes beyond mere academic curiosity. As a first-generation student who understands that opportunities and life paths should not be left to chance, my research seeks to bring empirical evidence on inequalities and life chances to the scientific community, and broadly to the civic and social debate, ideally to the political one.
 I strongly believe in active scientific dissemination, aiming for a stronger connection and exchange between science and civic society.
 
 ---
