@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "Lucrezia Rampazzo"
   pronouns         :  "she/her"  
   bio              : "M.A. student in Sociology and Social Research at the University of Trento, with a strong interest and focus on social inequalities, social and educational (intergenerational) mobility, and family dynamics. My research employs advanced quantitative methods and longitudinal data analysis to understand intergenerational processes and life-course trajectories. I have presented my work at international conferences and collaborated on multiple research projects exploring educational attainment and social stratification.M.A. student in Sociology and Social Research at the University of Trento, with a strong interest and focus on social inequalities, social and educational (intergenerational) mobility, and family dynamics. My research employs advanced quantitative methods and longitudinal data analysis to understand intergenerational processes and life-course trajectories. I have presented my work at international conferences and collaborated on multiple research projects exploring educational attainment and social stratification."
