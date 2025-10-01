@@ -1,4 +1,3 @@
-# Academic Pages
 **Lucrezia Rampazzo**
 
 
