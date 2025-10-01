@@ -16,19 +16,19 @@ description              : &description "Master's student in Sociology and Socia
 url                      :"https://lucreziarampazzo.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""LucreziaRampazzo/lucreziarampazzo.github.io""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "profile.png"
   name             : "Lucrezia Rampazzo"
   pronouns         :  "she/her"  
-  bio              : "M.A. student in Sociology and Social Research at the University of Trento, with a strong interest and focus on social inequalities, social and educational (intergenerational) mobility, and family dynamics. My research employs advanced quantitative methods and longitudinal data analysis to understand intergenerational processes and life-course trajectories. I have presented my work at international conferences and collaborated on multiple research projects exploring educational attainment and social stratification.M.A. student in Sociology and Social Research at the University of Trento, with a strong interest and focus on social inequalities, social and educational (intergenerational) mobility, and family dynamics. My research employs advanced quantitative methods and longitudinal data analysis to understand intergenerational processes and life-course trajectories. I have presented my work at international conferences and collaborated on multiple research projects exploring educational attainment and social stratification."
+  bio              : "M.A. student in Sociology and Social Research at the University of Trento, with a strong focus on social inequalities,intergenerational mobility, and family dynamics, employing quantitative methods and longitudinal data analysis."
   location         : "Trento, Italy"
-  employer         : ""
+  employer         : "University of Trento"
   uri              : # URL
   email            : "lucrezia.rampazzo@studenti.unitn.it" 
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
