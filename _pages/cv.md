@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV here: [LR_CV (PDF)]({{ base_path }}/files/_oct2025.pdf.pdf)
+<a href="/files/LR_cv_oct2025.pdf" download>Download CV (PDF)</a>
 
-<iframe src="{{ base_path }}/files/LR_cv _oct2025.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/files/LR_cv_oct2025.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
