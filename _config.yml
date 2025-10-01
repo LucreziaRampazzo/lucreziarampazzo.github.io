@@ -5,7 +5,7 @@ title                    : "Lucrezia Rampazzo / Site Title"
 title_separator          : "-"
 name                     : &name "Lucrezia Rampazzo"
 description              : &description "Master's student in Sociology and Social Research at the University of Trento | University of Trento Graduate"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :"https://lucreziarampazzo.github.io" 
+url                      : "https://lucreziarampazzo.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LucreziaRampazzo/lucreziarampazzo.github.io"
 
