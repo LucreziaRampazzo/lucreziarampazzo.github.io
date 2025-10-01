@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/LR_cv_oct2025.pdf" download> LR_CV (PDF)</a>
+<a href="/files/LR_cv_oct2025.pdf" download="LR_cv_oct2025.pdf"> LR_CV (PDF)</a> 
 
 <iframe src="/files/LR_cv_oct2025.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
