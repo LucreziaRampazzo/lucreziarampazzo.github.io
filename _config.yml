@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
@@ -13,10 +5,9 @@ title                    : "Lucrezia Rampazzo / Site Title"
 title_separator          : "-"
 name                     : &name "Lucrezia Rampazzo"
 description              : &description "Master's student in Sociology and Social Research at the University of Trento | University of Trento Graduate"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :"https://lucreziarampazzo.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      :"https://lucreziarampazzo.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""LucreziaRampazzo/lucreziarampazzo.github.io""
+repository               : "LucreziaRampazzo/lucreziarampazzo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +17,7 @@ author:
   avatar           : "profile.png"
   name             : "Lucrezia Rampazzo"
   pronouns         :  "she/her"  
-  bio              : "M.A. student in Sociology and Social Research at the University of Trento, with a strong focus on social inequalities,intergenerational mobility, and family dynamics, employing quantitative methods and longitudinal data analysis."
+  bio              : "Graduated in Sociology (University of Trento, DSSR). Currently MA student in Sociology and Social Research at the University of Trento, with a strong focus on social inequalities,intergenerational mobility, and family dynamics, employing quantitative methods and longitudinal data analysis."
   location         : "Trento, Italy"
   employer         : "University of Trento"
   uri              : # URL
