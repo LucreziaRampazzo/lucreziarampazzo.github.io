@@ -11,7 +11,7 @@ My research interests revolve around **Social Inequalities**, **Family Dynamics*
 
 ---
 My academic path is fundamentally shaped by the eagerness to understand institutional and social inequalities and their impact in individuals' and families' life. This commitment goes beyond mere academic curiosity. As a first-generation student who understands that opportunities and life paths should not be left to chance, my research seeks to bring empirical evidence on inequalities and life chances to the civil and social debate, ideally to the political one.
-I strongly believe in active scientific dissemination, practicing a genuine science for the people.
+I strongly believe in active scientific dissemination, aiming for a stronger connection and exchange between science and civic society.
 
 ---
 My trajectory is geared toward a PhD to further expand the needed theoretical and methodological tools to tackle the complex research question that drive my curiosity. Subsequently, I am leaning toward a career focused around research, teaching, and, in parallel, scientific dissemination.
