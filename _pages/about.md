@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Master’s student in **Sociology and Social Research** at the University of Trento, specializing in the empirical study of social inequalities and life-course dynamics. I earned my Bachelor's degree in Sociology and Social Sciences at the University of Trento, in 2024, with an empirical thesis analysing prospective approaches and the use of longitudinal data in studying educational mobility in Italy.
+I am a second-year Master’s student in **Sociology and Social Research** at the University of Trento, focusing on the quantitative study of social and educational inequalities, intergenerational mobility and life-course processes. I earned my Bachelor's degree in Sociology and Social Sciences at the University of Trento, in 2024, with an empirical thesis analysing prospective approaches and the use of longitudinal data in studying educational mobility in Italy.
 My research interests revolve around **Social Inequalities**, **Family Dynamics**, and **Intergenerational Mobility**. I seek to understand how family background, social stratification, early-life conditions, and institutional factors shape life trajectories in education, occupation and family behaviours.
 
 ---
