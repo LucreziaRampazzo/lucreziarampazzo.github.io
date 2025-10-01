@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "LUCREZIA RAMPAZZO"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
