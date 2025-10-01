@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/LR_cv_oct2025.pdf" download> LR_CV (PDF)</a>
+<a href="{{ base_path }}/files/LR_cv_oct2025.pdf" download> LR_CV (PDF)</a>
 
-<iframe src="/files/LR_cv_oct2025.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="{{ base_path }}/files/LR_cv_oct2025.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
