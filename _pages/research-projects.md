@@ -2,16 +2,8 @@
 layout: page
 permalink: /research-projects/
 title: Research Projects
-description: "Research Projects"
+description: "Research Projects and Internships"
 ---
-
----
-layout: page
-permalink: /research-projects/
-title: Research Projects
-description: "My primary academic research projects and internships."
----
-
 # Research Projects and Internships
 
 Here are the details of my most important research projects and internships.
