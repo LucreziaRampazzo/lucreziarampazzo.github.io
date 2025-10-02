@@ -14,7 +14,7 @@ My academic path is fundamentally shaped by the eagerness to understand institut
 I strongly believe in active scientific dissemination, fostering meaningful dialogue between research and society.
 
 ---
-My trajectory is geared toward a PhD to further expand he theoretical and methodological expertise needed to address the complex questions that drive my research interest and academic curiosity. My goal is to build a career that integrates research, teaching, and public engagement with science.
+My trajectory is geared toward a PhD to further expand the theoretical and methodological expertise needed to address the complex questions that drive my research interest and academic curiosity. My goal is to build a career that integrates research, teaching, and public engagement with science.
 
 
 
