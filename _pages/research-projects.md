@@ -2,12 +2,34 @@
 layout: page
 permalink: /research-projects/
 title: Research Projects
-description: "I miei principali progetti di ricerca accademica e personale."
+description: "Research Projects"
 ---
 
-# Research Projects
+---
+layout: page
+permalink: /research-projects/
+title: Research Projects
+description: "My primary academic research projects and internships."
+---
 
-Lore Ipsum
+# Research Projects and Internships
 
+Here are the details of my most important research projects and internships.
+
+---
+
+### 1. Research Internship - Parental Divorce and Children's Educational Trajectories
+
+* **Year:** **2025**
+* **Description:** This empirical research focuses on understanding the consequences of parental divorce on children's educational pathways across countries and birth cohorts. The project employs GGS and FReDA data and uses a **multilevel design** for the analysis.
+
+### 2. Research Internship - Prospective Educational Mobility in Italy
+
+* **Year:** **2024**
+* **Description:** This empirical research focuses on educational and social mobility using longitudinal data from the Bank of Italy - **SHIW** (Survey on Income and Wealth).
+
+---
+
+---
 ---
 
