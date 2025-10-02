@@ -4,8 +4,6 @@ permalink: /research-projects/
 title: Research Projects
 description: "Research Projects and Internships"
 ---
-# Research Projects and Internships
-
 Here are the details of my most important research projects and internships.
 
 ---
