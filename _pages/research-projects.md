@@ -14,6 +14,4 @@ Here are the details of my most important research projects and internships.
 
 ---
 
----
----
 
