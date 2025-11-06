@@ -7,7 +7,7 @@ description: "Research Projects and Internships"
 Here are the details of my most important research projects and internships.
 
 ---
-* **2025** - **Parental Job Loss and Children's Educational Performance: Evidence from the UK.** (Master's Thesis, _in itinere_)
+* **2025** - **Parental Job Loss and Children's Educational Performance.** (Master's Thesis, _in itinere_) My Master's thesis examines the intergenerational spillovers of parental job loss on children’s educational performance, focusing on the timing of involuntary job loss during childhood and the cumulative effect of multiple layoffs.
 
 * **2025** - **Parental Divorce and Children's Educational Trajectories**. This empirical research focuses on understanding the consequences of parental divorce on children's educational pathways across countries and birth cohorts. The project employs GGS and FReDA data and uses a multilevel design for the analysis.
 
