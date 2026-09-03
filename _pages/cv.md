@@ -8,7 +8,7 @@ redirect_from:
 ---
 You can dowload my CV here:
 
-<a href="/files/LR_cv.pdf" download="LR_cv_oct2025.pdf"> LR_CV (PDF)</a> 
+<a href="/files/LR_cv.pdf" download="LR_cv (8).pdf"> LR_CV (PDF)</a> 
 
 <iframe src="/files/LR_cv.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
